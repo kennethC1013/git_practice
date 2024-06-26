@@ -1,0 +1,60 @@
+html,
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    z-index: 10;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: 0;
+    font-family: 'Shadows Into Light', 'Times New Roman', serif;
+    color: red;
+}
+
+nav {
+    margin: 0;
+    padding: 20px 0;
+}
+
+nav li {
+    font-weight: 200;
+    font-size: 30px;
+    display: inline-block;
+    width: 300px;
+}
+
+.logo1 {
+    text-align: center;
+    padding: 100px 0;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    z-index: 10;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: 0;
+    color: red;
+}
+
+.contacts li {
+    width: 450px;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 200;
+    padding: 10px 0;
+}
+
+.about,
+.aboutSection {
+    text-align: center;
+    padding: 10px 50px;
+}
