@@ -58,3 +58,9 @@ footer {
     text-align: center;
     padding: 10px 50px;
 }
+
+span {
+    color: red;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', 'Times New Roman', serif;
+}
