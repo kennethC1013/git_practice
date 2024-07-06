@@ -32,14 +32,6 @@ nav li {
 .logo1 {
     text-align: center;
     padding: 100px 0;
-    width: 100%;
-    height: 500px;
-}
-
-.logo1 img {
-    max-width: 100%;
-    height: auto;
-    display: block;
 }
 
 footer {
